@@ -1,5 +1,0 @@
-Task 2: Digital Platforms Report
-
-For this task, I created profiles on GitHub, LinkedIn, and Kaggle. Each of these platforms serves a different purpose and is useful for students in building skills and career opportunities. GitHub is mainly used for storing and managing coding projects, allowing users to showcase their work and collaborate with others. LinkedIn is a professional networking platform where students can connect with industry professionals, explore internships, and build their online presence. Kaggle is used for practicing data science and machine learning through datasets and competitions.
-
-Over the next four years, I plan to use GitHub to upload and manage my academic and personal projects. I will use LinkedIn to build a strong professional network, stay updated with industry trends, and apply for internships. Kaggle will help me improve my analytical and problem-solving skills by working on real-world datasets. These platforms will support my overall growth and help me prepare for future career opportunities.
